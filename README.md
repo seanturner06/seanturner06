@@ -1,10 +1,8 @@
-### Sean Turner
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Sean and I'm a computer science student at NC State, from Raleigh, NC.</p>
 
 ###
 
@@ -37,5 +35,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
-
-###
