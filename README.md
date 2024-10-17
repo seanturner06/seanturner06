@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Sean, a computer science student at NC State, born and raised in Salisbury, NC. Always curious and constantly messing with code, I’m passionate about tech and problem-solving.</p>
+<p align="left">I'm Sean, a computer science student at NC State, born and raised in Salisbury, NC. Always curious and constantly messing with code, I’m passionate about tech and problem-solving. I have over 15 projects, but all of my repos are private and can be shown upon request if interesed.</p>
 
 ###
 
