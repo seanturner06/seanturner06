@@ -6,7 +6,7 @@
 
 ###
 
-![Visitor Count](https://profile-counter.glitch.me/{seanturner06}/count.svg)
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ###
 
