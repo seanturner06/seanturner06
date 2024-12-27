@@ -6,7 +6,7 @@
 
 ###
 
-![Visitor Count](https://profile-counter.glitch.me/{Sean Turner}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{seanturner06}/count.svg)
 
 ###
 
